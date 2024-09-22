@@ -1,4 +1,5 @@
-# MoodSensor
+# Mood_Sensor😄😔❓📊
+
 
 **MoodSensor** is a sentiment analysis project that uses machine learning and NLP to classify text as positive or negative. The project includes a Flask web interface for real-time sentiment analysis.
 
