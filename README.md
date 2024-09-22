@@ -16,9 +16,10 @@
     ├── README.md             
 ```
 ## MoodSensor Screenshots
-![Screenshot 2024-09-22 191647](https://github.com/user-attachments/assets/a62f1a6b-4f16-422b-b6fa-672c04bb0828)
-![Screenshot 2024-09-22 183152](https://github.com/user-attachments/assets/ecafe4cc-2439-49ea-bf91-883323ec081f)
-![Screenshot 2024-09-22 183217](https://github.com/user-attachments/assets/ae8e141a-5066-4f93-bdd0-110a8b4fd0f0)
+
+![Screenshot 2024-09-22 191647](https://github.com/user-attachments/assets/8937bdf5-4a83-466f-8524-40a30cc96076)
+![Screenshot 2024-09-22 183152](https://github.com/user-attachments/assets/c5085df1-739c-4672-bf46-0675eece1d8c)
+![Screenshot 2024-09-22 183217](https://github.com/user-attachments/assets/07213873-9f3d-4c0e-90a8-6ac43e0057e2)
 
 ## Setup Instructions
 - **`index.html`**: Web interface template.
